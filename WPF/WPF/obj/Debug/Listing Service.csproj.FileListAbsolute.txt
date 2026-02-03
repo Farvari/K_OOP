@@ -1,0 +1,45 @@
+C:\Users\pahal\Desktop\КП\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\pahal\Desktop\КП\WPF\WPF\bin\Debug\WPF.exe
+C:\Users\pahal\Desktop\КП\WPF\WPF\bin\Debug\WPF.pdb
+C:\Users\pahal\Desktop\КП\WPF\WPF\bin\Debug\EntityFramework.dll
+C:\Users\pahal\Desktop\КП\WPF\WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pahal\Desktop\КП\WPF\WPF\bin\Debug\EntityFramework.xml
+C:\Users\pahal\Desktop\КП\WPF\WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Listing Service.csproj.AssemblyReference.cache
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\WPF.exe.config
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\MainWindow.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\LoginView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\AddEditItemView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\FavoritesView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\MainView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ManageItemsView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ProfileView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\RateSellerView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ReportsManagementView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\RegisterView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ReportView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ItemDetailsView.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\App.baml
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\LoginView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\AddEditItemView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\FavoritesView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\MainView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ManageItemsView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ProfileView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\RateSellerView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ReportsManagementView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\RegisterView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ReportView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Views\ItemDetailsView.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\WPF.g.resources
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Listing Service.csproj.GenerateResource.cache
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Listing Service.csproj.CoreCompileInputs.cache
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\Listing .D22C513B.Up2Date
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\pahal\Desktop\КП\WPF\WPF\obj\Debug\WPF.pdb

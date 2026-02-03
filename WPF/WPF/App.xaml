@@ -1,0 +1,15 @@
+﻿<Application x:Class="WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF"
+             xmlns:converters="clr-namespace:WPF.Converters"
+             StartupUri="Views/LoginView.xaml">
+    <Application.Resources>
+        <converters:StringToVisibilityConverter x:Key="StringToVisibilityConverter"/>
+        <converters:NullToVisibilityConverter x:Key="NullToVisibilityConverter"/>
+        <converters:RatingToIndexConverter x:Key="RatingToIndexConverter"/>
+        <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+        <converters:FirstImagePathConverter x:Key="FirstImagePathConverter"/>
+        <converters:ImagePathConverter x:Key="ImagePathConverter"/>
+    </Application.Resources>
+</Application>

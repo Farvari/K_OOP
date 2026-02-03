@@ -1,0 +1,1317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|c:\\users\\pahal\\desktop\\\u043A\u043F\\wpf\\wpf\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\itemdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\itemdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\ratingtoindexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\converters\\ratingtoindexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\imagepathconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\converters\\imagepathconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\firstimagepathconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\converters\\firstimagepathconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\reportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\reportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\itemdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\itemdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\manageitemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\manageitemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\ratesellerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\ratesellerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\ratingtoindexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\converters\\ratingtoindexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\reportsmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\reportsmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\ratesellerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\ratesellerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\manageitemsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\manageitemsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\favoritesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\favoritesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\favoritesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\favoritesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\addedititemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\addedititemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\favoritesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\favoritesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\addedititemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\addedititemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\addedititemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\addedititemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\reportsmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\reportsmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\reportsmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\reportsmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\ratesellerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\ratesellerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\ratesellerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\ratesellerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\profileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\profileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\manageitemsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\manageitemsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\manageitemsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\manageitemsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\itemdetailsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\itemdetailsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\itemdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\itemdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\favoritesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\favoritesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\addedititemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\views\\addedititemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\reportsmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\reportsmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\Listing Service.csproj|solutionrelative:wpf\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\reportsmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\reportsmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\ratesellerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\ratesellerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\viewmodels\\itemdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\itemdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\views\\addedititemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\addedititemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\wpf\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA91760-44EF-4934-B263-73EC3E1D2355}|WPF\\WPF.csproj|solutionrelative:wpf\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\MainView.xaml",
+              "RelativeToolTip": "WPF\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:28:29.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:02:54.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemDetailsView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ItemDetailsView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ItemDetailsView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ItemDetailsView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ItemDetailsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:22:22.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NullToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\NullToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\NullToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:41:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:04:50.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\App.xaml",
+              "RelativeDocumentMoniker": "WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\App.xaml",
+              "RelativeToolTip": "WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-23T10:12:31.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:28:37.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:09:39.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RatingToIndexConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\RatingToIndexConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\RatingToIndexConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\RatingToIndexConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\RatingToIndexConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:41:39.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\StringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:10:23.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FavoritesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\FavoritesView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\FavoritesView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\FavoritesView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\FavoritesView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:22:07.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ManageItemsView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ManageItemsView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ManageItemsView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ManageItemsView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ManageItemsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:12:14.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ItemDetailsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ItemDetailsView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\ItemDetailsView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ItemDetailsView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\ItemDetailsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:23:43.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:32:43.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RegisterView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RegisterView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\RegisterView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RegisterView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\RegisterView.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:30:58.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\StringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:11:52.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImagePathConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\ImagePathConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\ImagePathConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\ImagePathConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\ImagePathConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:41:24.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FirstImagePathConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\FirstImagePathConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\FirstImagePathConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\FirstImagePathConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\FirstImagePathConverter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:41:11.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:11:57.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ReportViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ReportViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ReportViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ReportViewModel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:50:05.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\ReportView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\ReportView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:32:02.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ItemDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ItemDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ItemDetailsViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ItemDetailsViewModel.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAUwLIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:50:05.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RateSellerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RateSellerViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\RateSellerViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RateSellerViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\RateSellerViewModel.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:50:05.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageItemsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ManageItemsViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ManageItemsViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ManageItemsViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ManageItemsViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAwwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:12:54.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPF\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPF\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:42:02.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "WPF\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "WPF\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:42:21.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WPF\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WPF\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA4wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:34:16.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReportsManagementView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportsManagementView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ReportsManagementView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportsManagementView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ReportsManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:31:18.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RatingToIndexConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\RatingToIndexConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\RatingToIndexConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\RatingToIndexConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\RatingToIndexConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:11:54.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RegisterView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\RegisterView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RegisterView.xaml",
+              "RelativeToolTip": "WPF\\Views\\RegisterView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:30:50.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NullToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPF\\Converters\\NullToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeToolTip": "WPF\\Converters\\NullToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:11:56.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RateSellerView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RateSellerView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\RateSellerView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RateSellerView.xaml",
+              "RelativeToolTip": "WPF\\Views\\RateSellerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:30:21.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReportView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ReportView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ReportView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T16:50:05.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProfileView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ProfileView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ProfileView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ProfileView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ProfileView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T16:50:05.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageItemsView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ManageItemsView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ManageItemsView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ManageItemsView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ManageItemsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:29:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:11:38.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:25:11.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\LoginView.xaml",
+              "RelativeToolTip": "WPF\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:12:11.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\LoginView.xaml",
+              "RelativeToolTip": "WPF\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:24:40.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ReportViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ReportViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ReportViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:11:42.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ReportView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ReportView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ReportView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:12:22.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProfileView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ProfileView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ProfileView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ProfileView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ProfileView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:12:15.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ReportsManagementView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportsManagementView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ReportsManagementView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportsManagementView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ReportsManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:12:20.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FavoritesView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\FavoritesView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\FavoritesView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\FavoritesView.xaml",
+              "RelativeToolTip": "WPF\\Views\\FavoritesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-23T09:37:48.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FavoritesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\FavoritesViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\FavoritesViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\FavoritesViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\FavoritesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:11:48.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:33:12.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:57:56.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AddEditItemView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\AddEditItemView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\AddEditItemView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\AddEditItemView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\AddEditItemView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:19:24.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ItemDetailsView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ItemDetailsView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\ItemDetailsView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ItemDetailsView.xaml",
+              "RelativeToolTip": "WPF\\Views\\ItemDetailsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:56:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FavoritesView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\FavoritesView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\FavoritesView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\FavoritesView.xaml",
+              "RelativeToolTip": "WPF\\Views\\FavoritesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:12:09.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RegisterView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\RegisterView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RegisterView.xaml",
+              "RelativeToolTip": "WPF\\Views\\RegisterView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:12:19.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddEditItemView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\AddEditItemView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\AddEditItemView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\AddEditItemView.xaml",
+              "RelativeToolTip": "WPF\\Views\\AddEditItemView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T12:51:32.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ManageItemsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ManageItemsView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\ManageItemsView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ManageItemsView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\ManageItemsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:29:33.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RateSellerView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RateSellerView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\RateSellerView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RateSellerView.xaml",
+              "RelativeToolTip": "WPF\\Views\\RateSellerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:12:17.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RateSellerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RateSellerView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\RateSellerView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\RateSellerView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\RateSellerView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:30:32.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ProfileViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ProfileViewModel.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwG8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:05:15.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddEditItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\AddEditItemViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\AddEditItemViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\AddEditItemViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\AddEditItemViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:26:24.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddEditItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\AddEditItemViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\AddEditItemViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\AddEditItemViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\AddEditItemViewModel.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAmwLgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:22:15.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WPF\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WPF\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:43:26.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\User.cs",
+              "RelativeToolTip": "WPF\\Models\\User.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAxwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:51:32.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Role.cs",
+              "RelativeToolTip": "WPF\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:51:32.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Review.cs",
+              "RelativeToolTip": "WPF\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:51:32.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Report.cs",
+              "RelativeToolTip": "WPF\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:23:39.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Item.cs",
+              "RelativeToolTip": "WPF\\Models\\Item.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:51:32.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Image.cs",
+              "RelativeToolTip": "WPF\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:51:32.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Favorite.cs",
+              "RelativeToolTip": "WPF\\Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:51:32.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ReportsManagementView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportsManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\ReportsManagementView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ReportsManagementView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\ReportsManagementView.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:31:27.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProfileView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ProfileView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\ProfileView.xaml.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\ProfileView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\ProfileView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:30:05.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ReportsManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ReportsManagementViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ReportsManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ReportsManagementViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ReportsManagementViewModel.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAqwDUBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:50:05.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AddEditItemView.xaml",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\AddEditItemView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\AddEditItemView.xaml",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Views\\AddEditItemView.xaml",
+              "RelativeToolTip": "WPF\\Views\\AddEditItemView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T18:12:06.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Review.cs",
+              "RelativeToolTip": "WPF\\Models\\Review.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:42:12.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ItemDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ItemDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ItemDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ItemDetailsViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ItemDetailsViewModel.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA0wEoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:36:19.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAYwIEBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:58:01.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAswBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:50:05.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ReportsManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ReportsManagementViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\ReportsManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\ReportsManagementViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\ReportsManagementViewModel.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADgv10AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:11:44.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:08:04.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "RateSellerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RateSellerViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\RateSellerViewModel.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\ViewModels\\RateSellerViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\RateSellerViewModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA6wLYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:40:54.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Favorite.cs",
+              "RelativeToolTip": "WPF\\Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:14:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Role.cs",
+              "RelativeToolTip": "WPF\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:45:28.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\User.cs",
+              "RelativeToolTip": "WPF\\Models\\User.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:45:20.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Item.cs",
+              "RelativeToolTip": "WPF\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:13:18.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "WPF\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\pahal\\Desktop\\\u041A\u041F\\WPF\\WPF\\Models\\Image.cs",
+              "RelativeToolTip": "WPF\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:14:50.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
